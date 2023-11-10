@@ -1,0 +1,22 @@
+
+.lesson
+{
+    background-color: lemonchiffon;
+}
+.title
+{
+    color: blue;
+    background-color: white;
+}
+#email
+{
+background-color: darkgoldenrod;
+}
+#github
+{
+    background-color: aqua;
+}
+#portfolio
+{
+    background-color: darkorange;
+}
